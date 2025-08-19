@@ -8,7 +8,7 @@ _Vrinceanu C., Grebby S., Marsh. S., (2023), The performance of speckle ﬁlters
 >These Jupyter Notebooks are published in their 2019 version and have not been updated/maintained ever since.
 We urge anyone re-using these to carefully consider and revise the code beforehand.
 
-This repository will be updated at a later date.
+This repository may be updated at a later date.
 
 For questions and queries please e-mail:
 cristina.vrinceanu@nottingham.ac.uk
