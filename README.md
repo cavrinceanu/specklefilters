@@ -2,7 +2,7 @@
 
 This repository archives the a collection of Jupyter notebooks used in the Python implementation of speckle filters used in the paper:
 
-_Vrinceanu C., Grebby S., Marsh. S., (2023),  The performance of speckle ﬁlters on Copernicus Sentinel-1 SAR images containing natural oil slicks, Quarterly Journal of Engineering Geology and Hydrogeology, Geological Society of London (accepted for publishing)_
+_Vrinceanu C., Grebby S., Marsh. S., (2023),  The performance of speckle ﬁlters on Copernicus Sentinel-1 SAR images containing natural oil slicks, Quarterly Journal of Engineering Geology and Hydrogeology, Geological Society of London _
 
 >[Note!]
 >These Jupyter Notebooks are published in their 2019 version and have not been updated/maintained ever since.
