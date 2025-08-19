@@ -4,7 +4,8 @@ This repository archives the a collection of Jupyter notebooks used in the Pytho
 
 _Vrinceanu C., Grebby S., Marsh. S., (2023),  The performance of speckle ﬁlters on Copernicus Sentinel-1 SAR images containing natural oil slicks, Quarterly Journal of Engineering Geology and Hydrogeology, Geological Society of London (accepted for publishing)_
 
-These Jupyter Notebooks are published in their 2019 version and have not been updated/maintained ever since.
+>[Note!]
+>These Jupyter Notebooks are published in their 2019 version and have not been updated/maintained ever since.
 We urge anyone re-using these to carefully consider and revise the code beforehand.
 
 This repository will be updated at a later date.
